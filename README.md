@@ -8,6 +8,8 @@
 
 ---
 
+💭 **“Small steps every day, big results someday.”**
+
 ## 👩‍💻 About Me
 
 I'm an **IT student** passionate about programming, problem solving and web development.
