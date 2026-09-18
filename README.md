@@ -101,7 +101,7 @@ A collection of DSA practice programs from my earlier learning journey.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonikachoudhary2006-jpg&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Sonika's GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Sonikachoudhary&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Sonika's GitHub Stats" />
 </p>
 
 ---
@@ -109,7 +109,7 @@ A collection of DSA practice programs from my earlier learning journey.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sonikachoudhary2006-jpg&theme=tokyonight&hide_border=true" alt="Sonika's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Sonikachoudhary&theme=tokyonight&hide_border=true" alt="Sonika's GitHub Streak" />
 </p>
 
 ---
@@ -117,7 +117,7 @@ A collection of DSA practice programs from my earlier learning journey.
 ## 💻 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonikachoudhary2006-jpg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Sonika's Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonikachoudhary&layout=compact&theme=tokyonight&hide_border=true" alt="Sonika's Top Languages" />
 </p>
 
 
