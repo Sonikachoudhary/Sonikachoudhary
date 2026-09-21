@@ -1,67 +1,57 @@
 # Hi, I'm Sonika 👋
 
-### 💻 IT Student | C++ & DSA Learner | 🌐 Frontend Development
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;C%2B%2B+%7C+DSA+%7C+Frontend+Development;Learning+%7C+Building+%7C+Improving+%F0%9F%8C%B1&color=C96F91" alt="Typing SVG" />
-</p>
+💻 IT Student | C++ & DSA Learner | 🌐 Frontend Development
 
 ---
 
-<p align="center">
-  <i>“Small steps every day, big results someday.”</i>
-  <br>
-  <sub>🌱 Learning • Building • Growing</sub>
-</p>
+> *"Small steps every day, big results someday."*
+
+🌱 Learning • Building • Growing
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm an **IT student** passionate about programming, problem solving and web development.
+I'm an IT student passionate about programming, problem solving and web development.
 
 - 🌱 Currently learning **C++ & Data Structures and Algorithms**
-- 🧩 Practicing **C++ problem solving** regularly
-- 🏗️ Learning **Object-Oriented Programming in C++**
+- 🧩 Practicing **C++ problem solving regularly**
+- 📚 Learning **Object-Oriented Programming in C++**
 - 🌐 Exploring **Frontend Development**
-- 📚 Building projects and improving my coding skills step by step
+- 🛠️ Building projects and improving my coding skills step by step
 - 🚀 My goal is to keep learning, building and becoming a better developer
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 🌱 Currently Learning
 
-```text
-C++                    ███████████████░░░
-Data Structures        ████████████░░░░░░
-OOP in C++             ██████████░░░░░░░░
-Frontend Development   ████████░░░░░░░░░░
-Problem Solving        ███████████░░░░░░░
+| Area | Focus |
+|------|-------|
+| **C++** | Programming Fundamentals |
+| **Data Structures** | Arrays, Searching & Sorting |
+| **OOP in C++** | Classes, Objects & Core Concepts |
+| **Frontend Development** | HTML & CSS |
+| **Problem Solving** | Regular Practice |
 
-> Progress is a journey — these bars represent the areas I'm actively practicing, not formal proficiency levels.
+> Progress is a journey — these areas represent what I'm actively practicing, not formal proficiency levels.
 
 ---
 
- ## 🚀 My C++ & DSA Journey
+## 🚀 My C++ & DSA Journey
 
-<p I'm building my programming foundation through regular C++ practice. >
-</p>
-
-
+I'm building my programming foundation through regular C++ practice.
 
 ### 📌 What I'm Practicing
 
@@ -74,11 +64,11 @@ Problem Solving        ███████████░░░░░░░
 - 🔹 Basic Data Structures
 - 🔹 Problem Solving
 
-### 💻 Practice Repository
+### 📚 Practice Repository
 
-**CPP Problem Solving** — A collection of my C++ practice programs and problem-solving exercises.
+**C++ Problem Solving** — A collection of my C++ practice programs and problem-solving exercises.
 
-➡️ https://github.com/sonikachoudhary2006-jpg/CPP_Problem_Solving
+🔗 [View C++ Problem Solving Repository](https://github.com/sonikachoudhary2006-jpg/CPP_Problem_Solving)
 
 ---
 
@@ -88,32 +78,30 @@ Problem Solving        ███████████░░░░░░░
 
 Regular C++ practice focused on programming fundamentals, arrays, searching and problem solving.
 
-🔗 https://github.com/sonikachoudhary2006-jpg/CPP_Problem_Solving
+🔗 [View Repository](https://github.com/sonikachoudhary2006-jpg/CPP_Problem_Solving)
 
-### 📊 Student Grade Calculator
+### 🧮 Student Grade Calculator
 
-A beginner-friendly C++ project that calculates student grades.
-
-🔗 https://github.com/sonikachoudhary2006-jpg/Student-Grade-Calculator
+A beginner-friendly C++ project that calculates student grades based on marks.
 
 ### 🧠 OOP C++ Practice
 
 Practice programs covering Object-Oriented Programming concepts such as classes, constructors, inheritance and polymorphism.
 
-🔗 https://github.com/sonikachoudhary2006-jpg/-OPP-CPP-practice
+🔗 [View Repository](https://github.com/sonikachoudhary2006-jpg/OPP-CPP-practice)
 
-### 📚 DSA Practice
+### 📊 DSA Practice
 
 A collection of DSA practice programs from my earlier learning journey.
 
-🔗 https://github.com/sonikachoudhary2006-jpg/DSA---Practice
+🔗 [View Repository](https://github.com/sonikachoudhary2006-jpg/DSA---Practice)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Sonikachoudhary&show_icons=true&theme=tokyonight&hide_border=true&title_color=C96F91&icon_color=D98BA8&text_color=E8DDE2" alt="Sonika's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Sonikachoudhary&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -121,7 +109,7 @@ A collection of DSA practice programs from my earlier learning journey.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sonikachoudhary&theme=tokyonight&hide_border=true&ring=C96F91&fire=D98BA8&currStreakLabel=C96F91&sideLabels=D98BA8&currStreakNum=D98BA8&sideNums=E8DDE2&dates=BFA6B1" alt="Sonika's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Sonikachoudhary&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -129,7 +117,7 @@ A collection of DSA practice programs from my earlier learning journey.
 ## 💻 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sonikachoudhary&layout=compact&theme=tokyonight&hide_border=true&title_color=C96F91&text_color=E8DDE2&langs_count=8" alt="Sonika's Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sonikachoudhary&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -149,13 +137,11 @@ A collection of DSA practice programs from my earlier learning journey.
 ## 💭 A Thought to Remember
 
 <p align="center">
-  <br>
   <i>
-    “Success is not final, failure is not fatal:<br>
-    it is the courage to continue that counts.”
+    Keep learning, keep improving and keep moving forward.
+    <br><br>
+    — Stay consistent 🌱
   </i>
-  <br><br>
-  — <b>Winston Churchill</b> ✨
 </p>
 
 ---
@@ -163,12 +149,15 @@ A collection of DSA practice programs from my earlier learning journey.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sonika-choudhary-903171396/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/sonikachoudhary2006-jpg">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/sonika-choudhary-903171396/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/sonikachoudhary2006-jpg">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </p>
 
 ---
