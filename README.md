@@ -126,8 +126,6 @@ Currently exploring frontend development using HTML and CSS.
 🚧 More projects coming soon...
 ---
 
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -148,9 +146,11 @@ Currently exploring frontend development using HTML and CSS.
     height="180"
     alt="GitHub Statistics"
   />
+
 </picture>
 
 </p>
+
 ---
 
 ## 🔥 GitHub Streak
@@ -173,9 +173,11 @@ Currently exploring frontend development using HTML and CSS.
     height="180"
     alt="GitHub Streak"
   />
+
 </picture>
 
 </p>
+
 ---
 
 ## 💻 Top Languages
@@ -198,10 +200,10 @@ Currently exploring frontend development using HTML and CSS.
     height="180"
     alt="Top Languages"
   />
+
 </picture>
 
 </p>
-
 ---
 
 ## 💭 A Thought to Remember
@@ -215,5 +217,22 @@ Currently exploring frontend development using HTML and CSS.
 <br>
 
 <b>— Confucius</b>
+
+</p>
+---
+
+## ✨ A Little Reminder
+
+<p align="center">
+
+**Learn. Build. Commit. Repeat. 🚀**
+
+<br>
+
+🌱 <i>Keep learning • Keep building • Keep growing</i>
+
+<br><br>
+
+<b>Thanks for visiting my profile! 💙</b>
 
 </p>
