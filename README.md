@@ -3,7 +3,7 @@
 ### 💻 IT Student | C++ & DSA Learner | 🌐 Frontend Development
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=E88FB1&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;C%2B%2B+%7C+DSA+%7C+Frontend+Development;Learning+%7C+Building+%7C+Improving+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;C%2B%2B+%7C+DSA+%7C+Frontend+Development;Learning+%7C+Building+%7C+Improving+%F0%9F%8C%B1&color=C96F91" alt="Typing SVG" />
 </p>
 
 ---
