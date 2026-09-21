@@ -56,9 +56,12 @@ Problem Solving        ███████████░░░░░░░
 
 ---
 
-## 🚀 My C++ & DSA Journey
+ ## 🚀 My C++ & DSA Journey
 
-I'm building my programming foundation through regular C++ practice.
+<p I'm building my programming foundation through regular C++ practice. >
+</p>
+
+
 
 ### 📌 What I'm Practicing
 
