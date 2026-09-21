@@ -96,15 +96,11 @@ A collection of DSA practice programs from my earlier learning journey.
 
 🔗 https://github.com/sonikachoudhary2006-jpg/DSA---Practice
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sonikachoudhary&show_icons=true&theme=tokyonight&hide_border=true" alt="Sonika's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Sonikachoudhary&show_icons=true&theme=tokyonight&hide_border=true" alt="Sonika's GitHub Stats" />
 </p>
-
----
 
 ---
 
@@ -116,12 +112,10 @@ A collection of DSA practice programs from my earlier learning journey.
 
 ---
 
----
-
 ## 💻 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sonikachoudhary&layout=compact&theme=tokyonight&hide_border=true" alt="Sonika's Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sonikachoudhary&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Sonika's Top Languages" />
 </p>
 
 
