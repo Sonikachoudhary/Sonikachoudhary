@@ -129,7 +129,6 @@ A collection of DSA practice programs from my earlier learning journey.
 - [ ] Create projects that I can showcase in my portfolio
 
 ---
----
 
 ## 💭 A Thought to Remember
 
