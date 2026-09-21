@@ -118,7 +118,7 @@ A collection of DSA practice programs from my earlier learning journey.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sonikachoudhary&theme=tokyonight&hide_border=true&ring=C96F91&fire=D98BA8&currStreakLabel=C96F91&sideLabels=D98BA8&currStreakNum=D98BA8&sideNums=E8DDE2&dates=BFA6B1&v=20260921" alt="Sonika's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Sonikachoudhary&theme=tokyonight&hide_border=true&ring=C96F91&fire=D98BA8&currStreakLabel=C96F91&sideLabels=D98BA8&currStreakNum=D98BA8&sideNums=E8DDE2&dates=BFA6B1" alt="Sonika's GitHub Streak" />
 </p>
 
 ---
@@ -159,7 +159,7 @@ A collection of DSA practice programs from my earlier learning journey.
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/sonika-choudhary-903171396/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
