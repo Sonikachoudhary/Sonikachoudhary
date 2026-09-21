@@ -96,28 +96,31 @@ A collection of DSA practice programs from my earlier learning journey.
 
 🔗 https://github.com/sonikachoudhary2006-jpg/DSA---Practice
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Sonikachoudhary&show_icons=true&theme=tokyonight&hide_border=true" alt="Sonika's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Sonikachoudhary&show_icons=true&theme=transparent&hide_border=true&title_color=E8A0BF&icon_color=D98BA8&text_color=B88A9A&bg_color=FFF5F8" alt="Sonika's GitHub Stats" />
 </p>
+---
+
 
 ---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sonikachoudhary&theme=tokyonight&hide_border=true&v=20260921" alt="Sonika's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Sonikachoudhary&theme=transparent&hide_border=true&ring=E8A0BF&fire=E8A0BF&currStreakLabel=D98BA8&sideLabels=D98BA8&currStreakNum=C96F93&sideNums=C96F93&dates=B88A9A&v=20260921" alt="Sonika's GitHub Streak" />
 </p>
+---
+
 ---
 
 ## 💻 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sonikachoudhary&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Sonika's Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sonikachoudhary&layout=compact&theme=transparent&hide_border=true&title_color=E8A0BF&text_color=B88A9A&bg_color=FFF5F8&langs_count=8" alt="Sonika's Top Languages" />
 </p>
-
-
 
 ## 🎯 2026 Goals
 
