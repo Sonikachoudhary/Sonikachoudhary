@@ -117,7 +117,7 @@ A collection of DSA practice programs from my earlier learning journey.
 ## 💻 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonikachoudhary&layout=compact&theme=tokyonight&hide_border=true" alt="Sonika's Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonikachoudhary&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Sonika's Top Languages" />
 </p>
 
 
