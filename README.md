@@ -129,7 +129,22 @@ A collection of DSA practice programs from my earlier learning journey.
 - [ ] Create projects that I can showcase in my portfolio
 
 ---
+---
 
+## 💭 A Thought to Remember
+
+<p align="center">
+  <br>
+  <i>
+    “Success is not final, failure is not fatal:<br>
+    it is the courage to continue that counts.”
+  </i>
+  <br><br>
+  — <b>Winston Churchill</b> ✨
+</p>
+
+---
+ 
 ## 🌐 Connect With Me
 
 <p align="left">
