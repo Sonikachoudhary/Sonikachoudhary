@@ -125,30 +125,10 @@ Currently exploring frontend development using HTML and CSS.
 
 🚧 More projects coming soon...
 ---
-
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Sonikachoudhary&show_icons=true&theme=dark&hide_border=true"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Sonikachoudhary&show_icons=true&theme=default&hide_border=true"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Sonikachoudhary&show_icons=true&theme=default&hide_border=true"
-    height="180"
-    alt="GitHub Statistics"
-  />
-
-</picture>
-
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Sonikachoudhary&show_icons=true&theme=tokyonight&hide_border=true&title_color=E88FB1&icon_color=F2A7C0&text_color=E8DDE2" alt="Sonika's GitHub Stats" />
 </p>
 
 ---
@@ -156,26 +136,7 @@ Currently exploring frontend development using HTML and CSS.
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com?user=Sonikachoudhary&theme=dark&hide_border=true"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com?user=Sonikachoudhary&theme=default&hide_border=true"
-  />
-
-  <img
-    src="https://streak-stats.demolab.com?user=Sonikachoudhary&theme=default&hide_border=true"
-    height="180"
-    alt="GitHub Streak"
-  />
-
-</picture>
-
+  <img src="https://streak-stats.demolab.com?user=Sonikachoudhary&theme=tokyonight&hide_border=true&ring=E88FB1&fire=F2A7C0&currStreakLabel=E88FB1&sideLabels=D98BA8&currStreakNum=F2A7C0&sideNums=E8DDE2&dates=BFA6B1&v=20260921" alt="Sonika's GitHub Streak" />
 </p>
 
 ---
@@ -183,42 +144,23 @@ Currently exploring frontend development using HTML and CSS.
 ## 💻 Top Languages
 
 <p align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonikachoudhary&layout=compact&theme=dark&hide_border=true"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonikachoudhary&layout=compact&theme=default&hide_border=true"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonikachoudhary&layout=compact&theme=default&hide_border=true"
-    height="180"
-    alt="Top Languages"
-  />
-
-</picture>
-
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sonikachoudhary&layout=compact&theme=tokyonight&hide_border=true&title_color=E88FB1&text_color=E8DDE2&langs_count=8" alt="Sonika's Top Languages" />
 </p>
+
+  
 ---
 
 ## 💭 A Thought to Remember
 
 <p align="center">
-
-<i>
-"It does not matter how slowly you go as long as you do not stop."
-</i>
-
-<br>
-
-<b>— Confucius</b>
-
+  <i>
+    “Success is not final, failure is not fatal:<br>
+    it is the courage to continue that counts.”
+  </i>
+  <br>
+  — <b>Winston Churchill</b>
 </p>
+
 ---
 
 ## ✨ A Little Reminder
