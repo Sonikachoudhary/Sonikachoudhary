@@ -107,9 +107,8 @@ A collection of DSA practice programs from my earlier learning journey.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sonikachoudhary&theme=tokyonight&hide_border=true" alt="Sonika's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Sonikachoudhary&theme=tokyonight&hide_border=true&v=20260921" alt="Sonika's GitHub Streak" />
 </p>
-&v=2
 ---
 
 ## 💻 Top Languages
