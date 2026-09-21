@@ -71,22 +71,7 @@ problem solving and frontend development.
 
 ---
 
-## 🚀 My Coding Journey
 
-```text
-Programming Fundamentals
-          ↓
-         C++
-          ↓
-   Problem Solving
-          ↓
-         OOP
-          ↓
-         DSA
-          ↓
-Frontend Development
-          ↓
-      Projects
 
 ---
 ## 📂 My Projects
