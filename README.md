@@ -175,10 +175,12 @@ Learn → Practice → Build → Commit → Improve → Repeat
 ---
 
 
+---
+
 <p align="center">
-  🌷 <b>Learning. Building. Growing.</b> 🌷
+  🌷 <b>Thanks for visiting my profile!</b> 🌷
 </p>
 
 <p align="center">
-  <i>One commit at a time. 🚀</i>
+  ✨ Keep learning • Keep building • Keep growing ✨
 </p>
