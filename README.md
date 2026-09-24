@@ -151,13 +151,20 @@ A beginner-friendly web project created while exploring frontend development.
 ## 📊 GitHub Journey
 
 <p align="center">
-  <img src="./profile/stats.svg" height="170" />
-  <img src="./profile/top-langs.svg" height="170" />
+  <img src="./profile/stats.svg" width="700" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sonikachoudhary&theme=dark&hide_border=true&background=0f172a&ring=a78bfa&fire=60a5fa&currStreakLabel=a78bfa&sideLabels=cbd5e1&dates=94a3b8" />
+  <img src="./profile/top-langs.svg" width="700" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sonikachoudhary&theme=dark&hide_border=true&background=0f172a&ring=a78bfa&fire=60a5fa&currStreakLabel=a78bfa&sideLabels=cbd5e1&dates=94a3b8" width="700" />
+</p>
+
+## 💭 A Thought to Remember
+
+✨ **“Every line of code is a step forward.”**
 
 
 ## 🎯 My Current Goals
@@ -166,6 +173,7 @@ Learn → Practice → Build → Commit → Improve → Repeat
 
 
 ---
+
 
 <p align="center">
   🌷 <b>Learning. Building. Growing.</b> 🌷
