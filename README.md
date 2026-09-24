@@ -158,7 +158,7 @@ A beginner-friendly web project created while exploring frontend development.
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Sonikachoudhary&theme=dark&hide_border=true&background=0f172a&ring=a78bfa&fire=60a5fa&currStreakLabel=a78bfa&sideLabels=cbd5e1&dates=94a3b8" />
 </p>
----
+
 
 ## 🎯 My Current Goals
 
