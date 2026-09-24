@@ -1,111 +1,96 @@
 # 🌷 Hi, I'm Sonika
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=F48FB1&center=true&vCenter=true&width=650&lines=IT+Student+%F0%9F%92%BB;C%2B%2B+%26+DSA+Learner+%F0%9F%8C%B1;Frontend+Developer+in+Progress+%F0%9F%8C%90;Learning+%7C+Building+%7C+Growing+%E2%9C%A8" />
-</p>
+### 💻 IT Student | C++ & DSA Learner | Frontend Developer in Progress 🌐
 
-<p align="center">
-  <i>Small steps every day, big results someday.</i>
-</p>
+> *Small steps every day, big results someday.* 🌱
 
-<p align="center">
-  🌱 Learning • 💻 Building • ✨ Growing
-</p>
+I'm an IT student exploring programming, problem solving and frontend development.
+Currently building my foundation in **C++, DSA, OOP and Web Development** through regular practice and projects.
 
-<p align="center">
-  <a href="https://github.com/sonikachoudhary2006-jpg">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sonika-choudhary-903171396/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+🌱 Learning • 💻 Building • 🧠 Solving • 🚀 Growing
+
 
 ---
 
 ## 🌸 About Me
 
-Hi! I'm **Sonika**, an IT student exploring programming,
-problem solving and frontend development.
+- 🎓 IT Engineering Student
+- 💻 Learning **C++ & Data Structures**
+- 🧠 Practicing **Problem Solving & OOP**
+- 🌐 Exploring **Frontend Development**
+- 🚀 Building beginner-friendly and practical projects
+- 🔧 Using Git & GitHub to document my learning journey
+- 🌱 Improving my skills one step at a time
 
-- 💻 Learning **C++**
-- 🧠 Practicing **DSA & Problem Solving**
-- 🧩 Exploring **OOP**
-- 🌐 Learning **HTML & CSS**
-- 🛠️ Building beginner-friendly projects
-- 🌱 Improving my skills step by step
 
 ---
 
 ## 💻 What I Work With
 
-### Languages
+### 👩‍💻 Programming
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp" height="45"/>
-</p>
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Web Development
+### 🧠 Core
+`DSA` • `OOP` • `Problem Solving` • `Logic Building`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css" height="45"/>
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="45"/>
-</p>
-
----
-
-## 🌱 Currently Learning
-
-| Area | Focus |
-|---|---|
-| 💻 **C++** | Fundamentals & Logic Building |
-| 🧠 **DSA** | Arrays, Searching & Sorting |
-| 🧩 **OOP** | Classes, Objects & Core Concepts |
-| 🌐 **Frontend** | HTML & CSS |
-| 🧠 **Problem Solving** | Regular Practice |
-
----
-
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 ---
+
+## 🚀 Featured Project
+
+### 🔎 NEXORA — AI-Powered Criminal Network Analysis System
+
+A frontend prototype developed for **Smart India Hackathon 2026**.
+
+The project focuses on an interactive investigator dashboard that helps visualize relationships between:
+
+`Criminals` • `Cases` • `Locations` • `Vehicles` • `Other Entities`
+
+### ⚙️ Tech Stack
+
+`React` • `JavaScript` • `CSS` • `React Force Graph`
+
+### 👩‍💻 My Contribution
+
+Worked on the **frontend development**, including dashboard UI, interactive visualization and user-facing components.
+
+🔗 **[View Project Repository](YOUR_NEXORA_REPO_LINK)**  
+🌐 **[Live Demo](YOUR_LIVE_DEMO_LINK)**
+
+
+---
+
 ## 📂 My Projects
 
 ### 💻 C++ Problem Solving
 
-A collection of C++ programs created while practicing programming fundamentals,
-logic building and problem solving.
+A collection of C++ programs created while building programming fundamentals, logic and problem-solving skills.
 
-**Tech:** `C++` • `Logic Building` • `Problem Solving`
+**Focus:** `C++` • `Arrays` • `Searching` • `Algorithms` • `Logic Building`
 
-🔗 [View Repository](https://github.com/sonikachoudhary2006-jpg/CPP_Problem_Solving)
+🔗 [View Repository](YOUR_CPP_REPO_LINK)
 
----
-
-### 🧮 Student Grade Calculator
-
-A beginner-friendly C++ project that takes student marks and calculates:
-
-**Total Marks → Percentage → Grade**
-
-**Tech:** `C++` • `Conditions` • `Calculations`
-
----
 
 ### 🧠 OOP C++ Practice
 
-Practice programs focused on Object-Oriented Programming concepts.
+Practice programs created while learning Object-Oriented Programming concepts.
 
 **Topics:** `Classes` • `Objects` • `Constructors` • `Inheritance` • `Polymorphism`
 
-🔗 [View Repository](https://github.com/sonikachoudhary2006-jpg/OPP-CPP-practice)
+🔗 [View Repository](YOUR_OOP_REPO_LINK)
 
----
 
 ### 📊 DSA Practice
 
@@ -113,68 +98,72 @@ A collection of DSA programs and exercises created during my learning journey.
 
 **Focus:** `Data Structures` • `Algorithms` • `Problem Solving`
 
-🔗 [View Repository](https://github.com/sonikachoudhary2006-jpg/DSA---Practice)
+🔗 [View Repository](YOUR_DSA_REPO_LINK)
+
+
+### 🎓 Student Grade Calculator
+
+A beginner-friendly C++ project that calculates student results from marks.
+
+**Flow:**  
+`Marks → Total → Percentage → Grade`
+
+**Tech:** `C++` • `Conditions` • `Calculations`
+
+🔗 [View Repository](YOUR_GRADE_REPO_LINK)
+
+
+### 🌐 StudentHub
+
+A beginner-friendly web project created while exploring frontend development.
+
+**Tech:** `HTML` • `CSS` • `JavaScript`
+
+🔗 [View Repository](YOUR_STUDENTHUB_REPO_LINK)
+
 
 ---
 
-### 🌐 Frontend Projects
+## 🏆 Achievements & Activities
 
-Currently exploring frontend development using HTML and CSS.
+- 🚀 Participating in **Smart India Hackathon 2026**
+- 💻 Maintaining a consistent programming practice journey
+- 🌐 Building frontend projects alongside DSA preparation
+- 📚 Learning through practical projects and hands-on development
+- 🔧 Using GitHub to document and showcase my work
 
-**Tech:** `HTML` • `CSS`
 
-🚧 More projects coming soon...
 ---
-## 📊 GitHub Stats
+
+## 🌱 Currently Learning
+
+| Area | Focus |
+|---|---|
+| 💻 C++ | Fundamentals & Logic Building |
+| 🧠 DSA | Arrays, Searching & Sorting |
+| 🧩 OOP | Classes, Objects & Core Concepts |
+| 🌐 Frontend | HTML, CSS, JavaScript & React |
+| 🧠 Problem Solving | Regular Practice |
+| 🔧 Git & GitHub | Version Control & Project Management |
+
+
+---
+
+## 📊 GitHub Journey
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Sonikachoudhary&show_icons=true&theme=tokyonight&hide_border=true&title_color=E88FB1&icon_color=F2A7C0&text_color=E8DDE2" alt="Sonika's GitHub Stats" />
+  <img src="YOUR_GITHUB_STATS_LINK" width="48%" />
+  <img src="YOUR_GITHUB_STREAK_LINK" width="48%" />
 </p>
+
+<p align="center">
+  <img src="YOUR_TOP_LANGUAGES_LINK" width="48%" />
+</p>
+
 
 ---
 
-## 🔥 GitHub Streak
+## 🎯 My Current Goals
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sonikachoudhary&theme=tokyonight&hide_border=true&ring=E88FB1&fire=F2A7C0&currStreakLabel=E88FB1&sideLabels=D98BA8&currStreakNum=F2A7C0&sideNums=E8DDE2&dates=BFA6B1&v=20260921" alt="Sonika's GitHub Streak" />
-</p>
-
----
-
-## 💻 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sonikachoudhary&layout=compact&theme=tokyonight&hide_border=true&title_color=E88FB1&text_color=E8DDE2&langs_count=8" alt="Sonika's Top Languages" />
-</p>
-
-  
----
-
-## 💭 A Thought to Remember
-
-<p align="center">
-  <i>
-    “Success is not final, failure is not fatal:<br>
-    it is the courage to continue that counts.”
-  </i>
-  <br>
-  — <b>Winston Churchill</b>
-</p>
-
----
-
-## ✨ A Little Reminder
-
-<p align="center">
-
-**Learn. Build. Commit. Repeat. 🚀**
-
-<br>
-
-🌱 <i>Keep learning • Keep building • Keep growing</i>
-
-<br><br>
-
-<b>Thanks for visiting my profile! 💙</b>
-
-</p>
+```text
+Learn → Practice → Build → Commit → Improve → Repeat
