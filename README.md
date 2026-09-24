@@ -148,18 +148,16 @@ A beginner-friendly web project created while exploring frontend development.
 
 
 ---
-
 ## 📊 GitHub Journey
 
 <p align="center">
-  <img src="YOUR_GITHUB_STATS_LINK" width="48%" />
-  <img src="YOUR_GITHUB_STREAK_LINK" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sonikachoudhary&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonikachoudhary&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="YOUR_TOP_LANGUAGES_LINK" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Sonikachoudhary&theme=tokyonight" />
 </p>
-
 
 ---
 
