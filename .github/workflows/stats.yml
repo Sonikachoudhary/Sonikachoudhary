@@ -1,0 +1,30 @@
+name: GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate GitHub Stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          USERNAME: Sonikachoudhary
+          OUTPUT_PATH: stats.svg
+
+      - name: Generate Top Languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          USERNAME: Sonikachoudhary
+          OUTPUT_PATH: top-langs.svg
+          LANGUAGES: true
+
+      - name: Commit generated files
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "stats.svg top-langs.svg"
+          message: "Update GitHub stats"
