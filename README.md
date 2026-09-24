@@ -165,7 +165,6 @@ A beginner-friendly web project created while exploring frontend development.
 Learn → Practice → Build → Commit → Improve → Repeat
 
 
-### 🌷 End mein ek small signature
 ---
 
 <p align="center">
