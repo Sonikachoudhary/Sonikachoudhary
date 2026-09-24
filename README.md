@@ -151,17 +151,27 @@ A beginner-friendly web project created while exploring frontend development.
 ## 📊 GitHub Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sonikachoudhary&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonikachoudhary&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sonikachoudhary&show_icons=true&hide_border=true&title_color=a78bfa&text_color=cbd5e1&icon_color=60a5fa&bg_color=0f172a" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonikachoudhary&layout=compact&hide_border=true&title_color=a78bfa&text_color=cbd5e1&bg_color=0f172a" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sonikachoudhary&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Sonikachoudhary&theme=dark&hide_border=true&background=0f172a&ring=a78bfa&fire=60a5fa&currStreakLabel=a78bfa&sideLabels=cbd5e1&dates=94a3b8" />
 </p>
-
 ---
 
 ## 🎯 My Current Goals
 
-```text
 Learn → Practice → Build → Commit → Improve → Repeat
+
+
+### 🌷 End mein ek small signature
+---
+
+<p align="center">
+  🌷 <b>Learning. Building. Growing.</b> 🌷
+</p>
+
+<p align="center">
+  <i>One commit at a time. 🚀</i>
+</p>
