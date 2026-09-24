@@ -66,8 +66,8 @@ The project focuses on an interactive investigator dashboard that helps visualiz
 
 Worked on the **frontend development**, including dashboard UI, interactive visualization and user-facing components.
 
-🔗 **[View Project Repository](YOUR_NEXORA_REPO_LINK)**  
-🌐 **[Live Demo](YOUR_LIVE_DEMO_LINK)**
+🔗 **[View Project Repository](https://github.com/Sonikachoudhary/NEXORA-SIH-2026)**
+🌐 **[Live Demo](https://nexora-sih-2026.vercel.app⁠)**
 
 
 ---
