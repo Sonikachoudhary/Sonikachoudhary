@@ -151,8 +151,8 @@ A beginner-friendly web project created while exploring frontend development.
 ## 📊 GitHub Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sonikachoudhary&show_icons=true&hide_border=true&title_color=a78bfa&text_color=cbd5e1&icon_color=60a5fa&bg_color=0f172a" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonikachoudhary&layout=compact&hide_border=true&title_color=a78bfa&text_color=cbd5e1&bg_color=0f172a" height="165"/>
+  <img src="./profile/stats.svg" height="170" />
+  <img src="./profile/top-langs.svg" height="170" />
 </p>
 
 <p align="center">
